@@ -1,6 +1,6 @@
 # Tiny Imagenet: Image Classification
 Author: Tatiana Matejovicova  
-University of Cambridge
+University of Cambridge  
 14 December 2018
 
 ## Abstract
